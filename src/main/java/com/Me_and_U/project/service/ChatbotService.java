@@ -23,8 +23,8 @@ public class ChatbotService {
 		
 		
 		
-		/////////String apiURL="";배포용 꼭 지우기!!!!!
-		///////String secretKey= ""; 
+		String apiURL="https://nmzvabfpfh.apigw.ntruss.com/custom/v1/8990/8608212384a68070ccf89d42cb7b9841d443f2005392e728b57d4032041cbaa5";
+		String secretKey= "U2h5WnRGUW9PYXNXdkJ6RGpFS2NxbHdRc2VCZnpjRU8="; 
 		
 		
         String chatbotMessage = "";  //응답 메세지

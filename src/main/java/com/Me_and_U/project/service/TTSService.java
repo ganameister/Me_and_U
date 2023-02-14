@@ -21,7 +21,9 @@ import org.springframework.stereotype.Service;
 public class TTSService {
 	public String chatbotTTS(String message) {
 
-	 
+		String clientId = "ffi3xseu1j";
+		String clientSecret = "Z8HSryH1tIsZES1U1fytQQwxHcSWGlOnon1Hnxed"; 
+
     
 	/////////String clientId="";배포용 꼭 지우기!!!!!
 	///////String clientSecret= ""; 
